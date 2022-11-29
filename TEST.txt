@@ -1,8 +1,5 @@
-51656656
-111 
+test A
+test b
+testb를 testa로 병합
 >>>>>>> TESTA
-<<<<<<<<< Temporary merge branch 1
-test a 에서 수정하기
-=========
-test b 
->>>>>>>>> Temporary merge branch 2
+testa를 main으로 병합
